@@ -1,0 +1,43 @@
+2025-06-20 20:37:55,738 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-20 20:38:24,764 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.todo:Project_04_Todo_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\pom.xml.
+2025-06-20 20:38:26,499 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-20 20:38:26,521 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:38:26,529 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
+2025-06-20 20:38:28,254 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.todo:Project_04_Todo_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\pom.xml.
+2025-06-20 20:38:28,331 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-20 20:38:28,349 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:38:28,354 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
+2025-06-20 20:39:24,290 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-06-20 20:39:25,123 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.todo:Project_04_Todo_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\pom.xml.
+2025-06-20 20:39:25,825 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_04_Todo_App/src/main/java
+2025-06-20 20:39:25,827 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_04_Todo_App/src/main/resources
+2025-06-20 20:39:25,828 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_04_Todo_App/src/main/resources
+2025-06-20 20:39:25,829 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_04_Todo_App/src/test/java
+2025-06-20 20:39:25,831 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_04_Todo_App/src/test/resources
+2025-06-20 20:39:26,313 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-06-20 20:39:27,056 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-20 20:39:27,071 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:39:27,077 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
+2025-06-20 20:39:59,722 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-20 20:41:58,546 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.todo:Project_04_Todo_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\pom.xml.
+2025-06-20 20:41:59,319 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-20 20:41:59,321 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:41:59,325 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
+2025-06-20 20:42:01,196 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-20 20:42:01,212 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:42:01,218 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
+2025-06-20 20:42:09,825 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-06-20 20:42:10,134 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.todo:Project_04_Todo_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\pom.xml.
+2025-06-20 20:42:10,506 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_01_Todo_App/src/main/java
+2025-06-20 20:42:10,507 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_01_Todo_App/src/main/resources
+2025-06-20 20:42:10,508 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_01_Todo_App/src/main/resources
+2025-06-20 20:42:10,508 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_01_Todo_App/src/test/java
+2025-06-20 20:42:10,508 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_01_Todo_App/src/test/resources
+2025-06-20 20:42:10,758 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-06-20 20:42:11,122 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-20 20:42:11,141 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:42:11,148 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
+2025-06-20 20:43:37,692 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.todo:Project_01_Todo_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\pom.xml.
+2025-06-20 20:43:38,033 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:43:38,035 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-20 20:43:38,041 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_04_Todo_App\src\test\resources
