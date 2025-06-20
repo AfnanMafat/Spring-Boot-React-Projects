@@ -1,7 +1,5 @@
 package com.todo.model;
 
-import java.sql.Date;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -27,7 +25,7 @@ public class User {
 	}
 
 
-	public User(long id, String title, String description, String status, String priority, Date due_date) {
+	public User(long id, String title, String description, String status, String priority, String due_date) {
 		super();
 		this.id = id;
 		this.title = title;
@@ -88,12 +86,12 @@ public class User {
 	}
 
 
-	public Date getDue_date() {
+	public String getDue_date() {
 		return due_date;
 	}
 
 
-	public void setDue_date(Date due_date) {
+	public void setDue_date(String due_date) {
 		this.due_date = due_date;
 	}
 
@@ -107,5 +105,5 @@ public class User {
 	private String priority;
 	
 	
-	private Date due_date;
+	private String due_date;
 }

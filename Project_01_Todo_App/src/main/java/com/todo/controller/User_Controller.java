@@ -3,6 +3,7 @@ package com.todo.controller;
 import java.util.List;
 import java.util.Optional;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -15,6 +16,7 @@ import com.todo.model.User;
 import com.todo.service.User_Service;
 
 @RestController
+@CrossOrigin("http://localhost:5173")
 public class User_Controller {
 	
 	private User_Service service;
