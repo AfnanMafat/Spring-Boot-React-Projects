@@ -21,8 +21,8 @@ public class Tickets {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
-	private int event_id;
-	private int user_id;
+//	private int event_id;
+//	private int user_id;
 	private String booking_date;
 	private String ticket_type;
 	private double price;
@@ -38,8 +38,8 @@ public class Tickets {
 			int quntity, String status, Events event, Users user, List<Payments> payments) {
 		super();
 		this.id = id;
-		this.event_id = event_id;
-		this.user_id = user_id;
+//		this.event_id = event_id;
+//		this.user_id = user_id;
 		this.booking_date = booking_date;
 		this.ticket_type = ticket_type;
 		this.price = price;
@@ -50,19 +50,19 @@ public class Tickets {
 		this.payments = payments;
 	}
 
-	@Override
-	public String toString() {
-		return "Tickets [id=" + id + ", event_id=" + event_id + ", user_id=" + user_id + ", booking_date="
-				+ booking_date + ", ticket_type=" + ticket_type + ", price=" + price + ", quntity=" + quntity
-				+ ", status=" + status + ", event=" + event + ", user=" + user + "]";
-	}
+//	@Override
+//	public String toString() {
+//		return "Tickets [id=" + id + ", event_id=" + event_id + ", user_id=" + user_id + ", booking_date="
+//				+ booking_date + ", ticket_type=" + ticket_type + ", price=" + price + ", quntity=" + quntity
+//				+ ", status=" + status + ", event=" + event + ", user=" + user + "]";
+//	}
 
 	public Tickets(int id, int event_id, int user_id, String booking_date, String ticket_type, double price,
 			int quntity, String status, Events event, Users user) {
 		super();
 		this.id = id;
-		this.event_id = event_id;
-		this.user_id = user_id;
+//		this.event_id = event_id;
+//		this.user_id = user_id;
 		this.booking_date = booking_date;
 		this.ticket_type = ticket_type;
 		this.price = price;
@@ -100,21 +100,21 @@ public class Tickets {
 		this.id = id;
 	}
 
-	public int getEvent_id() {
-		return event_id;
-	}
-
-	public void setEvent_id(int event_id) {
-		this.event_id = event_id;
-	}
-
-	public int getUser_id() {
-		return user_id;
-	}
-
-	public void setUser_id(int user_id) {
-		this.user_id = user_id;
-	}
+//	public int getEvent_id() {
+//		return event_id;
+//	}
+//
+//	public void setEvent_id(int event_id) {
+//		this.event_id = event_id;
+//	}
+//
+//	public int getUser_id() {
+//		return user_id;
+//	}
+//
+//	public void setUser_id(int user_id) {
+//		this.user_id = user_id;
+//	}
 
 	public String getBooking_date() {
 		return booking_date;

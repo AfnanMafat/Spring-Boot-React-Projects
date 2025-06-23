@@ -15,17 +15,17 @@ public class Payments {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
-	private int ticket_id;
+//	private int ticket_id;
 	private String payment_date;
 	private double amount;
 	private String method;
 	private String status;
 	
-	@Override
-	public String toString() {
-		return "Payments [id=" + id + ", ticket_id=" + ticket_id + ", payment_date=" + payment_date + ", amount="
-				+ amount + ", method=" + method + ", status=" + status + ", ticket=" + ticket + "]";
-	}
+//	@Override
+//	public String toString() {
+//		return "Payments [id=" + id + ", ticket_id=" + ticket_id + ", payment_date=" + payment_date + ", amount="
+//				+ amount + ", method=" + method + ", status=" + status + ", ticket=" + ticket + "]";
+//	}
 
 	public Payments() {
 		super();
@@ -36,7 +36,7 @@ public class Payments {
 			Tickets ticket) {
 		super();
 		this.id = id;
-		this.ticket_id = ticket_id;
+//		this.ticket_id = ticket_id;
 		this.payment_date = payment_date;
 		this.amount = amount;
 		this.method = method;
@@ -56,13 +56,13 @@ public class Payments {
 		this.id = id;
 	}
 
-	public int getTicket_id() {
-		return ticket_id;
-	}
-
-	public void setTicket_id(int ticket_id) {
-		this.ticket_id = ticket_id;
-	}
+//	public int getTicket_id() {
+//		return ticket_id;
+//	}
+//
+//	public void setTicket_id(int ticket_id) {
+//		this.ticket_id = ticket_id;
+//	}
 
 	public String getPayment_date() {
 		return payment_date;

@@ -15,8 +15,8 @@ public class Feedback {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
-	private int event_id;
-	private int user_id;
+//	private int event_id;
+//	private int user_id;
 	private int rating;
 	private String comment;
 	private String feedback_date;
@@ -34,8 +34,8 @@ public class Feedback {
 			Users user) {
 		super();
 		this.id = id;
-		this.event_id = event_id;
-		this.user_id = user_id;
+//		this.event_id = event_id;
+//		this.user_id = user_id;
 		this.rating = rating;
 		this.comment = comment;
 		this.feedback_date = feedback_date;
@@ -43,12 +43,12 @@ public class Feedback {
 		this.user = user;
 	}
 
-	@Override
-	public String toString() {
-		return "Feedback [id=" + id + ", event_id=" + event_id + ", user_id=" + user_id + ", rating=" + rating
-				+ ", comment=" + comment + ", feedback_date=" + feedback_date + ", event=" + event + ", user=" + user
-				+ "]";
-	}
+//	@Override
+//	public String toString() {
+//		return "Feedback [id=" + id + ", event_id=" + event_id + ", user_id=" + user_id + ", rating=" + rating
+//				+ ", comment=" + comment + ", feedback_date=" + feedback_date + ", event=" + event + ", user=" + user
+//				+ "]";
+//	}
 
 	@ManyToOne
     @JoinColumn(name = "user_id")
@@ -62,21 +62,21 @@ public class Feedback {
 		this.id = id;
 	}
 
-	public int getEvent_id() {
-		return event_id;
-	}
-
-	public void setEvent_id(int event_id) {
-		this.event_id = event_id;
-	}
-
-	public int getUser_id() {
-		return user_id;
-	}
-
-	public void setUser_id(int user_id) {
-		this.user_id = user_id;
-	}
+//	public int getEvent_id() {
+//		return event_id;
+//	}
+//
+//	public void setEvent_id(int event_id) {
+//		this.event_id = event_id;
+//	}
+//
+//	public int getUser_id() {
+//		return user_id;
+//	}
+//
+//	public void setUser_id(int user_id) {
+//		this.user_id = user_id;
+//	}
 
 	public int getRating() {
 		return rating;

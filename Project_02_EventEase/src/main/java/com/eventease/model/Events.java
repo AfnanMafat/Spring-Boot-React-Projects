@@ -24,9 +24,9 @@ public class Events {
 	private String title;
 	private String description;
 	private String date;
-	private int venue_id;
-	private int category_id;
-	private int organizer_id;
+//	private int venue_id;
+//	private int category_id;
+//	private int organizer_id;
 	private String status;
 	
 	@ManyToOne
@@ -50,9 +50,9 @@ public class Events {
 		this.title = title;
 		this.description = description;
 		this.date = date;
-		this.venue_id = venue_id;
-		this.category_id = category_id;
-		this.organizer_id = organizer_id;
+//		this.venue_id = venue_id;
+//		this.category_id = category_id;
+//		this.organizer_id = organizer_id;
 		this.status = status;
 		this.venue = venue;
 		this.feedbacks = feedbacks;
@@ -85,9 +85,9 @@ public class Events {
 		this.title = title;
 		this.description = description;
 		this.date = date;
-		this.venue_id = venue_id;
-		this.category_id = category_id;
-		this.organizer_id = organizer_id;
+//		this.venue_id = venue_id;
+//		this.category_id = category_id;
+//		this.organizer_id = organizer_id;
 		this.status = status;
 		this.venue = venue;
 		this.feedbacks = feedbacks;
@@ -107,22 +107,22 @@ public class Events {
 		this.title = title;
 		this.description = description;
 		this.date = date;
-		this.venue_id = venue_id;
-		this.category_id = category_id;
-		this.organizer_id = organizer_id;
+//		this.venue_id = venue_id;
+//		this.category_id = category_id;
+//		this.organizer_id = organizer_id;
 		this.status = status;
 		this.venue = venue;
 		this.category = category;
 		this.organizer = organizer;
 	}
 
-	@Override
-	public String toString() {
-		return "Events [id=" + id + ", title=" + title + ", description=" + description + ", date=" + date
-				+ ", venue_id=" + venue_id + ", category_id=" + category_id + ", organizer_id=" + organizer_id
-				+ ", status=" + status + ", venue=" + venue + ", category=" + category + ", organizer=" + organizer
-				+ "]";
-	}
+//	@Override
+//	public String toString() {
+//		return "Events [id=" + id + ", title=" + title + ", description=" + description + ", date=" + date
+//				+ ", venue_id=" + venue_id + ", category_id=" + category_id + ", organizer_id=" + organizer_id
+//				+ ", status=" + status + ", venue=" + venue + ", category=" + category + ", organizer=" + organizer
+//				+ "]";
+//	}
 
 	public int getId() {
 		return id;
@@ -156,29 +156,29 @@ public class Events {
 		this.date = date;
 	}
 
-	public int getVenue_id() {
-		return venue_id;
-	}
+//	public int getVenue_id() {
+//		return venue_id;
+//	}
+//
+//	public void setVenue_id(int venue_id) {
+//		this.venue_id = venue_id;
+//	}
+//
+//	public int getCategory_id() {
+//		return category_id;
+//	}
+//
+//	public void setCategory_id(int category_id) {
+//		this.category_id = category_id;
+//	}
+//
+//	public int getOrganizer_id() {
+//		return organizer_id;
+//	}
 
-	public void setVenue_id(int venue_id) {
-		this.venue_id = venue_id;
-	}
-
-	public int getCategory_id() {
-		return category_id;
-	}
-
-	public void setCategory_id(int category_id) {
-		this.category_id = category_id;
-	}
-
-	public int getOrganizer_id() {
-		return organizer_id;
-	}
-
-	public void setOrganizer_id(int organizer_id) {
-		this.organizer_id = organizer_id;
-	}
+//	public void setOrganizer_id(int organizer_id) {
+//		this.organizer_id = organizer_id;
+//	}
 
 	public String getStatus() {
 		return status;
