@@ -527,3 +527,50 @@
 2025-06-23 21:41:05,257 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-06-23 21:41:05,293 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-06-23 21:41:05,299 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_02_EventEase\src\test\resources
+2025-06-23 21:42:07,372 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-23 21:42:07,377 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-23 21:42:07,382 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_02_EventEase\src\test\resources
+2025-06-27 13:52:39,993 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-06-27 18:40:42,368 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-06-29 18:47:22,235 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-06-29 18:48:34,293 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.quizapp:Project_03_Quiz_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\pom.xml.
+2025-06-29 18:48:35,599 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_03_Quiz_App/src/main/java
+2025-06-29 18:48:35,600 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_03_Quiz_App/src/main/resources
+2025-06-29 18:48:35,603 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_03_Quiz_App/src/main/resources
+2025-06-29 18:48:35,606 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_03_Quiz_App/src/test/java
+2025-06-29 18:48:35,606 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_03_Quiz_App/src/test/resources
+2025-06-29 18:48:35,856 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-06-29 18:48:35,859 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-06-29 18:48:36,180 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.quizapp:Project_03_Quiz_App:0.0.1-SNAPSHOT @ C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\pom.xml.
+2025-06-29 18:48:36,810 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_03_Quiz_App/src/main/java
+2025-06-29 18:48:36,811 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_03_Quiz_App/src/main/resources
+2025-06-29 18:48:36,811 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_03_Quiz_App/src/main/resources
+2025-06-29 18:48:36,812 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Project_03_Quiz_App/src/test/java
+2025-06-29 18:48:36,812 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Project_03_Quiz_App/src/test/resources
+2025-06-29 18:48:37,284 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-06-29 18:48:38,234 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:48:38,252 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:48:38,258 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
+2025-06-29 18:49:57,932 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:49:57,938 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:49:57,945 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
+2025-06-29 18:51:35,857 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.15; built: 2024-11-05T19:44:57.623Z; git: 8281ae9740d4b4225e8166cc476bad237c70213a; jvm 21.0.1+12-LTS-29
+2025-06-29 18:51:35,906 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@23a430e3{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@706e619c{STARTED}}
+2025-06-29 18:51:35,907 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-06-29 18:51:35,919 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1ea0f2ad{HTTP/1.1, (http/1.1)}{127.0.0.1:49891}
+2025-06-29 18:51:35,930 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@33c2aed4{STARTING}[12.0.15,sto=0] @276934ms
+2025-06-29 18:51:47,934 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:51:47,938 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:51:47,941 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
+2025-06-29 18:51:53,167 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:51:53,174 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:51:53,177 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
+2025-06-29 18:53:13,470 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:53:13,474 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:53:13,478 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
+2025-06-29 18:53:28,301 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:53:28,305 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:53:28,309 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
+2025-06-29 18:53:36,207 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-06-29 18:53:36,209 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-06-29 18:53:36,213 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\hp\Desktop\Computer Engineering\SpringBoot + React JS Projects\Project_03_Quiz_App\src\test\resources
