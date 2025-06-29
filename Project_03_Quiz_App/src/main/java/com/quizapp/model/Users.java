@@ -40,7 +40,7 @@ public class Users {
 
 	private String password;
 
-	@OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+	@OneToMany(mappedBy = "users", cascade = CascadeType.ALL, orphanRemoval = true)
 	private List<QuizResult> quizResults;
 
 	public int getId() {
